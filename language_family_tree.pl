@@ -1,0 +1,46 @@
+% Facts
+% When the programs were born
+% born(language, year).
+born(fortran1,1956).
+born(lisp,1958).
+born(algo60,1960).
+born(cobol,1960).
+born(pl1,1964).
+born(smalltalk,1968).
+born(pascal,1970).
+born(prolog,1970).
+born(scheme,1974).
+born(ml,1977).
+born(fortran77,1977).
+born(c,1978).
+born(smalltalk80,1980).
+born(ada83,1982).
+born(cpp,1984).
+born(commonlisp,1984).
+born(sml,1984).
+born(perl,1986).
+born(eiffel,1986).
+born(caml,1986).
+born(tcl,1988).
+born(python,1990).
+born(fortran90,1990).
+born(java,1994).
+born(javascript,1994).
+born(ruby,1994).
+born(perl5,1994).
+born(ocaml,1996).
+born(cppiso,1998).
+born(schemer5rs,1998).
+born(haskell98,1998).
+born(csharp,2000).
+born(python2,2000).
+born(java5,2004).
+born(csharp2,2004).
+born(go,2008).
+born(kotlin,2010).
+born(rust,2010).
+born(haskell,2010).
+born(csharp5,2012).
+born(java8,2014).
+born(swift,2014).
+born(javascriptes2017,2017).
